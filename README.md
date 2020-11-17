@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**tknightz/tknightz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as **bugs fixer**
+- 🌱 I’m currently learning **technology**
+- 👯 I’m looking to collaborate on **any projects that you guys are interested**
+- 💬 Ask me about **anything**
+- 📫 How to reach me: **If you want you can find it.**
+- ⚡ Fun fact: **have no sad fact**
 
-Here are some ideas to get you started:
+<a href="https://github.com/tknightz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tknightz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Tknightz GitHub statsication" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/tknightz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tknightz&&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+</a>
