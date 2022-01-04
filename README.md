@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as **part_time... freelancer**
+- 🔭 I’m currently working as **fulltime dev**
 - 🌱 I’m currently learning **technology**
 - 👯 I’m looking to collaborate on **any projects that you guys are interested**
 - 💬 Ask me about **anything**
